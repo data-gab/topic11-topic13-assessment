@@ -873,3 +873,16 @@ A second survey is taken at another bootcamp that shows that students send a mea
 ```python
 !jupyter nbconvert --to markdown assessment.ipynb && mv assessment.md README.md
 ```
+
+    [NbConvertApp] Converting notebook assessment.ipynb to markdown
+    [NbConvertApp] Support files will be in assessment_files/
+    [NbConvertApp] Making directory assessment_files
+    [NbConvertApp] Making directory assessment_files
+    [NbConvertApp] Making directory assessment_files
+    [NbConvertApp] Writing 25998 bytes to assessment.md
+
+
+
+```python
+
+```
